@@ -1,0 +1,34 @@
+2025-12-30 14:43:49,734 - DEBUG - test_credkart_login - 18 - This is info
+2025-12-30 14:43:49,734 - INFO - test_credkart_login - 19 - This is info
+2025-12-30 14:43:49,734 - WARNING - test_credkart_login - 20 - This is warning
+2025-12-30 14:43:49,734 - ERROR - test_credkart_login - 21 - This is error
+2025-12-30 14:43:49,734 - CRITICAL - test_credkart_login - 22 - This is critical
+2025-12-30 15:01:28,293 - DEBUG - test_credkart_login - 18 - This is info
+2025-12-30 15:01:28,293 - INFO - test_credkart_login - 19 - This is info
+2025-12-30 15:01:28,293 - WARNING - test_credkart_login - 20 - This is warning
+2025-12-30 15:01:28,293 - ERROR - test_credkart_login - 21 - This is error
+2025-12-30 15:01:28,293 - CRITICAL - test_credkart_login - 22 - This is critical
+2025-12-30 15:19:40,543 - INFO - test_credkart_login - 24 - opening url
+2025-12-30 15:19:41,241 - INFO - test_credkart_login - 26 - Landed on url
+2025-12-30 15:19:41,242 - INFO - test_credkart_login - 28 - entering email
+2025-12-30 15:19:41,318 - INFO - test_credkart_login - 31 - entering password
+2025-12-30 15:19:41,365 - INFO - test_credkart_login - 33 - Checking login
+2025-12-30 15:19:47,225 - INFO - test_credkart_login - 42 - Tanking Screenshot
+2025-12-30 15:23:36,768 - INFO - test_credkart_login - 24 - opening url
+2025-12-30 15:23:37,399 - INFO - test_credkart_login - 26 - Landed on url
+2025-12-30 15:23:37,399 - INFO - test_credkart_login - 28 - entering email
+2025-12-30 15:23:37,475 - INFO - test_credkart_login - 31 - entering password
+2025-12-30 15:23:37,523 - INFO - test_credkart_login - 33 - Checking login
+2025-12-30 15:23:39,151 - INFO - test_credkart_login - 43 - Tanking Screenshot
+2025-12-30 15:29:23,849 - INFO - test_credkart_login - 24 - opening url
+2025-12-30 15:29:24,968 - INFO - test_credkart_login - 26 - Landed on url
+2025-12-30 15:29:24,968 - INFO - test_credkart_login - 28 - entering email
+2025-12-30 15:29:25,042 - INFO - test_credkart_login - 31 - entering password
+2025-12-30 15:29:25,090 - INFO - test_credkart_login - 33 - Checking login
+2025-12-30 15:29:26,519 - INFO - test_credkart_login - 43 - Tanking Screenshot
+2025-12-30 15:32:33,597 - INFO - test_credkart_login - 24 - opening url
+2025-12-30 15:32:34,068 - INFO - test_credkart_login - 26 - Landed on url
+2025-12-30 15:32:34,068 - INFO - test_credkart_login - 28 - entering email
+2025-12-30 15:32:34,150 - INFO - test_credkart_login - 31 - entering password
+2025-12-30 15:32:34,192 - INFO - test_credkart_login - 33 - Checking login
+2025-12-30 15:32:36,077 - INFO - test_credkart_login - 43 - Tanking Screenshot

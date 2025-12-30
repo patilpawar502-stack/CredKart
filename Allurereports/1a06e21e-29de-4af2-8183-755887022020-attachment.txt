@@ -1,0 +1,6 @@
+[32mINFO    [0m utillities.logger:test_credkart_login.py:24 opening url
+[32mINFO    [0m utillities.logger:test_credkart_login.py:26 Landed on url
+[32mINFO    [0m utillities.logger:test_credkart_login.py:28 entering email
+[32mINFO    [0m utillities.logger:test_credkart_login.py:31 entering password
+[32mINFO    [0m utillities.logger:test_credkart_login.py:33 Checking login
+[32mINFO    [0m utillities.logger:test_credkart_login.py:42 Tanking Screenshot

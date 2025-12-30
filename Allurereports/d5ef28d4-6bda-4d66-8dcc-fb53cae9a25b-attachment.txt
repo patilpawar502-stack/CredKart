@@ -1,0 +1,5 @@
+[35mDEBUG   [0m utillities.logger:test_credkart_login.py:18 This is info
+[32mINFO    [0m utillities.logger:test_credkart_login.py:19 This is info
+[33mWARNING [0m utillities.logger:test_credkart_login.py:20 This is warning
+[31m[1mERROR   [0m utillities.logger:test_credkart_login.py:21 This is error
+[31mCRITICAL[0m utillities.logger:test_credkart_login.py:22 This is critical
